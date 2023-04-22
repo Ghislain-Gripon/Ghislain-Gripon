@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello I'm Ghislain 👋
+
+#### About me
+
+I'm a developer and data enthusiat who loves reading about AI.
+Learning and training on the cloud currently.
+
+I use this repo to store my projects and hands-on trial of new and old techs.
+
 
 <!--
 **Ghislain-Gripon/Ghislain-Gripon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
